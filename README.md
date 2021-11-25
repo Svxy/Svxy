@@ -1,6 +1,6 @@
 ## 📖 About me
 
-👋Hello! I'm a 16 year old Mainer that honestly just loves coding and learning things, simple as that. But the only languages ik are HTML Python and JavaScript. Primarily I focus on things discord related, rather it be malicious activity or something to provide for the community, i just love coding. :D
+👋Hello! I'm a 16 year old Mainer that honestly just loves coding and learning things, simple as that. But the only languages ik are HTML, Python, CSS, and JavaScript. Primarily I focus on things discord related, rather it be malicious activity or something to provide for the community, i just love coding. :D
 
 ## 📫 Contact
 

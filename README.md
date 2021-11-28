@@ -6,7 +6,12 @@
 
 </a> <a href="https://github.com/Svxy/imgs">
 <img src="https://github.com/Svxy/imgs/blob/main/gmail.png" alt="Logo" width="120" height="50"> </a> <a href="https://github.com/Svxy/imgs">
-<img src="https://github.com/Svxy/imgs/blob/main/discord.jpg" alt="Logo" width="120" height="50">
+<img src="https://github.com/Svxy/imgs/blob/main/discord.jpg" alt="Logo" width="120" height="50"> </a>
+    
+You can add me to your phone contacts here:
+
+<a href="https://cutieyy.wixsite.com/cutieysbot">
+    <img src="https://github.com/Svxy/imgs/blob/main/qr.png" alt="Logo" width="150" height="150">
 
 ## 🏗 A few things I'm currently working on
 

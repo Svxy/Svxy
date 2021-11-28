@@ -12,7 +12,7 @@
 
 [Cutieys OTF Theme](https://github.com/Svxy/CutieysOTFTheme) |
 [Cutieys NSFW Theme](https://github.com/Svxy/Cutieys-NSFW-Theme) |
-[CutieysBot](https://github.com/Svxy/My-Bots-Open-Source-Code)
+[Juice WRLD Theme](https://github.com/Svxy/JuiceWRLD.Theme.v1)
 
 ## ❤ A few things I love
 

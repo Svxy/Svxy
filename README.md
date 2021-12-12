@@ -15,9 +15,9 @@ You can add me to your phone contacts here:
 
 ## 🏗 A few things I'm currently working on
 
-[Cutieys OTF Theme](https://github.com/Svxy/CutieysOTFTheme) |
-[Cutieys NSFW Theme](https://github.com/Svxy/Cutieys-NSFW-Theme) |
-[Juice WRLD Theme](https://github.com/Svxy/JuiceWRLD.Theme.v1)
+[An App With All My Projects](https://github.com/Svxy/CutieysOTFTheme) :heavy_check_mark:\
+[Discord Mass DM Tool](https://github.com/Svxy/Cutieys-Mass-DM-Tool) :heavy_check_mark:\
+[My MC PixelArt World](https://github.com/Svxy/My-PixelArt-MC-World) :heavy_check_mark:
 
 ## ❤ A few things I love
 

@@ -15,7 +15,7 @@ You can add me to your phone contacts here:
 
 ## 🏗 A few things I'm currently working on
 
-[An App With All My Projects](https://github.com/Svxy/CutieysOTFTheme) :heavy_check_mark:\
+[An App With All My Projects](https://github.com/Svxy/An-App-With-All-My-Projects) :heavy_check_mark:\
 [Discord Mass DM Tool](https://github.com/Svxy/Cutieys-Mass-DM-Tool) :heavy_check_mark:\
 [My MC PixelArt World](https://github.com/Svxy/My-PixelArt-MC-World) :heavy_check_mark:
 

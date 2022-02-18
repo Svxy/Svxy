@@ -11,12 +11,12 @@
 You can add me to your phone contacts here:
 
 <a href="https://github.com/svxy">
-    <img src="https://github.com/Svxy/imgs/blob/main/qr.png" alt="Logo" width="120" height="120">
+    <img src="https://github.com/Svxy/imgs/blob/main/qr.png" alt="Logo" width="120" height="120"></a>
 
 ## 🏗 A few things I'm currently working on
-&nbsp;
+    
 Currently my only focus is my future cannabis company ['S&A Organics'](https://sna-organics.com)
-&nbsp;
+    
 ## ❤ A few things I love
 
 ### Languages

@@ -1,5 +1,5 @@
 <a href="https://github.com/svxy">
-<img src="https://github.com/Svxy/imgs/blob/main/Juice%20Banner%20Small.png?raw=true" alt="Logo" width="999" height="420"></a>
+<img src="https://github.com/Svxy/imgs/blob/main/Juice%20Banner%20Small.png?raw=true" alt="Logo" width="999" height="360"></a>
 
 ## 📖 About me
 

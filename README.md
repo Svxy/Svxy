@@ -1,3 +1,6 @@
+<a href="https://github.com/svxy">
+<img src="https://github.com/Svxy/imgs/blob/main/Juice%20Banner%20Small.png?raw=true" alt="Logo" width="999" height="420"></a>
+
 ## 📖 About me
 
 👋Hello! I'm a 16 year old Mainer that honestly just loves coding and learning things, simple as that. But the only languages ik are HTML, Python, CSS, and JavaScript. Primarily I focus on things discord related, rather it be malicious activity or something to provide for the community, i just love coding. :D

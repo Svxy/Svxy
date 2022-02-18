@@ -4,43 +4,44 @@
 
 ## 📫 Contact
 
-</a> <a href="https://github.com/Svxy/imgs">
-<img src="https://github.com/Svxy/imgs/blob/main/gmail.png" alt="Logo" width="120" height="50"> </a> <a href="https://github.com/Svxy/imgs">
-<img src="https://github.com/Svxy/imgs/blob/main/discord.jpg" alt="Logo" width="120" height="50"> </a>
+<a href="aidan61605@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-256.png" alt="Logo" width="64" height="64"> </a> <a href="https://github.com/Svxy/imgs/blob/main/discord.txt">
+<img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png" alt="Logo" width="64" height="64"> </a>
     
 You can add me to your phone contacts here:
 
-<a href="https://cutieyy.wixsite.com/cutieysbot">
-    <img src="https://github.com/Svxy/imgs/blob/main/qr.png" alt="Logo" width="150" height="150">
+<a href="https://github.com/svxy">
+    <img src="https://github.com/Svxy/imgs/blob/main/qr.png" alt="Logo" width="120" height="120">
 
 ## 🏗 A few things I'm currently working on
-
-[Useful and Fun Python scripts](https://github.com/Svxy/Useful-Fun-Python-scripts) :heavy_check_mark:\
-[Discord Mass DM Tool](https://github.com/Svxy/Cutieys-Mass-DM-Tool) :heavy_check_mark:\
-[My MC PixelArt World](https://github.com/Svxy/My-PixelArt-MC-World) :heavy_check_mark:
-
+&nbsp;
+[Currently my only focus is my future cannabis company 'S&A Organics'](https://sna-organics.com)
+&nbsp;
 ## ❤ A few things I love
 
 ### Languages
 
-<a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/python.svg" alt="Logo" width="80" height="30">
-  </a> <a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/java.png" alt="Logo" width="80" height="30">
-  </a> <a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/html.png" alt="Logo" width="80" height="30">
+<a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" alt="Logo" width="64" height="64">&nbsp;&nbsp;&nbsp;
+  </a> <a href="https://en.wikipedia.org/wiki/CSS">
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png?raw=true" alt="Logo" width="64" height="64">&nbsp;&nbsp;&nbsp;
+  </a> <a href="https://www.javascript.com/">
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true" alt="Logo" width="64" height="64">&nbsp;&nbsp;&nbsp;
+    </a> <a href="https://www.python.org/">
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" alt="Logo" width="64" height="64">
 
-### Databases
+### Hosting Platforms
 
- <a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/aws.png" alt="Logo" width="80" height="30">
-    <a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/yur.svg" alt="Logo" width="80" height="30">
-  </a> <a href="https://github.com/Svxy/imgs">
-    <img src="https://github.com/Svxy/imgs/blob/main/yur2.svg" alt="Logo" width="80" height="30">
+ <a href="https://www.netlify.com/">
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/netlify_logo_icon_145039.png" alt="Logo" width="64" height="64">&nbsp;&nbsp;&nbsp;
+ <a href="https://replit.com/">
+    <img src="https://user-images.githubusercontent.com/93295911/154689125-ca3a71d0-3ea8-454f-ab2b-a30f66184c29.png" alt="Logo" width="140" height="64">&nbsp;&nbsp;&nbsp;
+ <a href="https://infinityfree.net/">
+     <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/08/infinityfree-alternative-logo.png" alt="Logo" width="120"
+      height="82">
+ <hr>
 
-### N heres naruto
-
-<a href="https://github.com/Svxy/imgs/blob/main/python.svg">
-  <img src="https://64.media.tumblr.com/tumblr_mdjs9mQ71D1riyxb1o1_500.gifv" alt="Gif" width="710" height="420">
+ ### N heres naruto
+ <a href="https://github.com/Svxy/imgs/blob/main/python.svg">
+    <img src="https://64.media.tumblr.com/tumblr_mdjs9mQ71D1riyxb1o1_500.gifv" alt="Gif" width="710" height="380">
 </a>

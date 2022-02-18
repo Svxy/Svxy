@@ -18,7 +18,7 @@ You can add me to your phone contacts here:
 
 ## 🏗 A few things I'm currently working on
     
-Currently my only focus is my future cannabis company <a href="https://discord.com/app" target="_blank">'S&A Organics'</a>
+Currently my only focus is my future cannabis company <a href="https://sna-organics.com" target="_blank">'S&A Organics'</a>
     
 ## ❤ A few things I love
 

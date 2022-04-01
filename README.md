@@ -25,7 +25,7 @@ ___
 
 <br>
 
-- <a href=https://github.com/Svxy/Pot-Growing> | This Years First Grow</a> S&A's first grow.
+- <a href=https://github.com/Svxy/Pot-Growing>This Years First Grow</a> | S&A's first grow.
 
 <br>
 

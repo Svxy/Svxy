@@ -1,20 +1,20 @@
 <a id="top"></a>
-## 📖 About me
+<h1 align=center>📖 About me</h1>
 <br>
-👋Hello! My name is TnyavnTo (or Aidan), I'm a 16 year old frontend web developer from <a href="https://www.maine.gov/" target="_blank">Maine</a> with some experience developing winform/wpf applications with <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">CSharp</a>, aswell as Discord and Twitch bots with <a href="https://www.python.org/" target="_blank">Python</a> and <a href="https://www.javascript.com/" target="_blank">JavaScript</a>.
-My main languages are HTML and CSS\SCSS.
+<p align=center>👋Hello! My name is TnyavnTo (or Aidan), I'm a 16 year old frontend web developer from <a href="https://www.maine.gov/" target="_blank">Maine</a> with some experience developing winform/wpf applications with <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">CSharp</a>, aswell as Discord and Twitch bots with <a href="https://www.python.org/" target="_blank">Python</a> and <a href="https://www.javascript.com/" target="_blank">JavaScript</a>.
+My main languages are HTML and CSS\SCSS.</p>
 
 <br><br>
 
-- [GitHub Stats](#stats)
+<h3 align=center><a href=#stats>My GitHub Stats</a></h3>
 
 <br>
 
 ___
 
-<br>
+<br><br>
 
-## 🏗 A few things I'm currently working on
+<h1 align=center>🏗 A few things I'm currently working on</h1>
 <br>
 
 - <a href="https://tnyavnto-tunes.com" target="_blank">TnyavnTo Tunes</a> | Discord Music Bot
@@ -23,13 +23,13 @@ ___
 
 - <a href="https://sna-organics.com" target="_blank">S&A Organics Co.</a> | A reference site for a future cannabis company.
 
-<br>
+<br><br>
 
 ___
 
 <br>
 
-## ❤ Languages/Tools/Databases/Hosting/Etc
+<h1 align=center>❤ Languages/Tools/Databases/Hosting/Etc</h1>
 
 <br>
 
@@ -103,12 +103,12 @@ ___
 
 <a id="stats"></a>
 
-## 📈 GitHub Statistics
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Svxy&theme=tokyonight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svxy&theme=tokyonight&layout=compact">
+<h1 align=center>📈 GitHub Statistics</h1>
 
 <br>
 
-## [back to top](#top)
+<img src="https://github-readme-stats.vercel.app/api?username=Svxy&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svxy&theme=tokyonight&layout=compact">
+
+<br><br>
+
+<a href="#top"><h3 align=center>Back to top?</h3></a>

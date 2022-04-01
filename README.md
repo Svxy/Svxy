@@ -95,7 +95,8 @@ ___
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Logo" width="64" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp
     </a> <a href="https://www.netlify.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1920px-Netlify_logo.svg.png?20180815190440" alt="Logo" width="180" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp
-    
+    </a> <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Logo" width="180" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp
 <br><br><br>
 
 <br>

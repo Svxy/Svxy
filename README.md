@@ -23,7 +23,11 @@ ___
 
 - <a href="https://sna-organics.com" target="_blank">S&A Organics Co.</a> | A reference site for a future cannabis company.
 
-<br><br>
+<br>
+
+- <a href=https://github.com/Svxy/Pot-Growing> | This Years First Grow</a> S&A's first grow.
+
+<br>
 
 ___
 

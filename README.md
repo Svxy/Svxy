@@ -7,6 +7,7 @@ My main languages are HTML and CSS\SCSS.</p>
 <br><br>
 
 <h3 align=center><a href=#stats>My GitHub Stats</a></h3>
+<h3 align=center><a href=#status>My Sites Online Status</a></h3>
 
 <br>
 
@@ -113,6 +114,20 @@ ___
 
 <img src="https://github-readme-stats.vercel.app/api?username=Svxy&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svxy&theme=tokyonight&layout=compact">
 
-<br><br>
+___
+
+<br>
+
+<a id="status"></a>
+
+<h1 align=center><a href=https://tnyavnto-tunes.com>TnyavnTo Tunes</a> Deploy Status</h1>
+
+<br>
+
+<p align=center><img src=https://api.netlify.com/api/v1/badges/1942f06d-94d3-4e78-97b3-b5bedfeb6245/deploy-status height=69px></p>
+
+<br>
+
+___
 
 <a href="#top"><h3 align=center>Back to top?</h3></a>

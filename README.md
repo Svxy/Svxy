@@ -7,7 +7,7 @@ My main languages are HTML and CSS\SCSS.</p>
 <br><br>
 
 <h3 align=center><a href=#stats>My GitHub Stats</a></h3>
-<h3 align=center><a href=#status>My Sites Online Status</a></h3>
+<h3 align=center><a href=#status>My Sites Deploy Status</a></h3>
 
 <br>
 

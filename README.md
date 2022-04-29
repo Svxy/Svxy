@@ -2,7 +2,7 @@
 <h1 align=center>📖 About me</h1>
 <br>
 <p align=center>👋Hello! My name is TnyavnTo, I'm a frontend web developer/programmer from <a href="https://www.maine.gov/" target="_blank">Maine</a> with some experience developing .NET winform/wpf applications with <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">CSharp</a>, aswell as Discord and Twitch bots with <a href="https://www.python.org/" target="_blank">Python</a> and <a href="https://www.javascript.com/" target="_blank">JavaScript</a>.
-My main languages are HTML and CSS\SCSS.</p>
+My main languages are HTML, CSS\SCSS, and JavaScript.</p>
 
 <br><br>
 

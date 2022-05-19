@@ -6,6 +6,10 @@ My main languages are HTML, CSS\SCSS, and JavaScript, however you'll see alot of
 
 <br><br>
 
+<p align=center><kbd>Alt</kbd> + <kbd>F4</kbd></p>
+
+<br><br>
+
 <h3 align=center><a href=#stats>My GitHub Stats</a></h3>
 <h3 align=center><a href=#status>My Sites Deploy Status</a></h3>
 

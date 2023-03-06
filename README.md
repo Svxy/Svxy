@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1000 commits to Svxy/CheeseMenu
 ⬆️ Pushed 1 commit to Svxy/Svxy
 ⬆️ Pushed 1 commit to Svxy/CheeseMenu
 📦 Released "Nighty" in Svxy/CheeseMenu
 ⬆️ Pushed 1 commit to Svxy/CheeseMenu
-📦 Released "nightly" in Svxy/CheeseMenu
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-03-06T14:02:45Z</b>
+  <b>2023-03-06T15:04:47Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

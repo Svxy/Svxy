@@ -1,0 +1,27 @@
+name: Widgets
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Create README.md
+      uses: actions-js/profile-readme@main
+      with:
+        username: Svxy
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit & Push changes
+      uses: actions-js/push@main
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

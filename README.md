@@ -59,15 +59,16 @@ export default class MyProfile {
 ```
 ## Coding Activity
 <p align="center">
-    <img alt="Coding Activity" src="https://wakatime.com/share/@TnyavnTo/f3fc2db6-245d-4dcf-8557-84dfd77ad0dc.svg">
+    <img alt="Coding Activity" src="https://wakatime.com/share/@TnyavnTo/a6749acb-fd49-4333-8f2b-ea1d6d64d2e3.svg">
 </p>
+<p align="center">
 <img alt="Total Coding Activity" src="https://wakatime.com/badge/user/ab398c54-42dd-49de-ab5a-d15f2e23352c.svg" />
-
+</p>
 
 <p align="center">
   Last refresh:
   <b><!--TIMESTAMP--></b>
 </p>
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">
 </p>

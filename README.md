@@ -35,7 +35,7 @@ export default class MyProfile {
   get socials() {
     return {
       "twitch": "https://www.twitch.tv/ItsSvxy",
-      "steam"  : "https://steamcommunity.com/profiles/76561199177007533/",
+      "steam"  : "https://steamcommunity.com/id/itssvxy",
       "Discord": "tnyavnto#0420"
     }
   }

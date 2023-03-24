@@ -1,4 +1,4 @@
-name: Widgets
+name: Update README
 
 on:
   schedule:
@@ -6,6 +6,9 @@ on:
   push:
     branches:
       - master
+defaults:
+  run:
+    shell: node 16
 
 jobs:
   publish:

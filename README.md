@@ -80,3 +80,7 @@ export default class MyProfile {
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">
 </p>
+
+<br>
+
+<p align=center>Thanks to <a href='https://github.com/yimura'>Yimura</a> for this <a href='https://github.com/yimura/yimura'>Template</a></p>

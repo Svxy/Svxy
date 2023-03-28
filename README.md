@@ -51,19 +51,19 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Svxy/porn
-⬆️ Pushed 1 commit to Svxy/porn
-⬆️ Pushed 16 commits to Svxy/porn
-⬆️ Pushed 1 commit to Svxy/porn
-⬆️ Pushed 1 commit to Svxy/porn
+⬆️ Pushed 1 commit to Svxy/svxy.github.io
+⬆️ Pushed 1 commit to Svxy/svxy.github.io
+⬆️ Pushed 1 commit to Svxy/tdrb
+⬆️ Pushed 1 commit to Svxy/tdrb
+📦 Released "v1.0" in Svxy/tdrb
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 7 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
+⭐️ 8 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
 ⭐️ 4 📦 Svxy/Cutieys-Anti-Virus
 ⭐️ 4 📦 Svxy/Cutieys-Password-Stealer
 ⭐️ 4 📦 Svxy/JuiceWRLD.Theme.v1
-⭐️ 4 📦 Svxy/Youtube-Account-Cracker
+⭐️ 4 📦 Svxy/TnyavnTos-Module-Injector
 ```
 ## Coding Activity
 <p align="center">
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-03-27T04:31:04Z</b>
+  <b>2023-03-28T04:30:57Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

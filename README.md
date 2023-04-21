@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Svxy/TnyavnTos-GTA5-Mod-Menu
-⬆️ Pushed 1 commit to Svxy/svxy.github.io
-⬆️ Pushed 1 commit to Svxy/blog
-⬆️ Pushed 1 commit to Svxy/blog
-⬆️ Pushed 1 commit to Svxy/blog
+⬆️ Pushed 1 commit to Svxy/website-update-scraper
+⬆️ Pushed 1 commit to Svxy/website-update-scraper
+⬆️ Pushed 1 commit to Svxy/website-update-scraper
+⬆️ Pushed 1 commit to Svxy/website-update-scraper
+⬆️ Pushed 1 commit to Svxy/website-update-scraper
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-04-20T04:29:53Z</b>
+  <b>2023-04-21T04:29:33Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

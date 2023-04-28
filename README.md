@@ -59,7 +59,7 @@ export default class MyProfile {
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 11 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
+⭐️ 12 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
 ⭐️ 4  📦 Svxy/Cutieys-Anti-Virus
 ⭐️ 4  📦 Svxy/Cutieys-Password-Stealer
 ⭐️ 4  📦 Svxy/JuiceWRLD.Theme.v1
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-04-27T04:29:16Z</b>
+  <b>2023-04-28T04:29:03Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

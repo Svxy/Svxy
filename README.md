@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Svxy/imgs
+⬆️ Pushed 1 commit to Svxy/imgs
 ⬆️ Pushed 1 commit to Svxy/blog
 ⬆️ Pushed 1 commit to Svxy/Useful-Fun-Python-scripts
 ⬆️ Pushed 1 commit to Svxy/USB-Stick-Password-Stealer
-⬆️ Pushed 1 commit to Svxy/An-App-With-All-My-Projects
-⬆️ Pushed 1 commit to Svxy/Cutieys-Password-Stealer
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-05-30T04:28:23Z</b>
+  <b>2023-05-31T04:28:02Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

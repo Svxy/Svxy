@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '20 4 * * *' # Cron jobs are confusing :/
+    - cron: '20 4 * * *'
   push:
     branches:
       - master

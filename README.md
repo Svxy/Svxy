@@ -3,10 +3,10 @@ export default class MyProfile {
   constructor() { }
 
   /**
-   * @returns {string} Alias
+   * @returns {Array<string>} Aliases
    */
-  get alias() {
-    return "TnyavnTo";
+  get aliases() {
+    return ["TnyavnTo", "Svxy", "Sneaky"];
   }
 
   /**
@@ -34,9 +34,9 @@ export default class MyProfile {
    */
   get socials() {
     return {
-      "twitch": "https://www.twitch.tv/ItsSvxy",
+      "twitch": "https://www.kick.com/SneakyDev",
       "steam"  : "https://steamcommunity.com/id/itssvxy",
-      "Discord": "tnyavnto#0420"
+      "Discord": "Sneaky~$#0110"
     }
   }
 

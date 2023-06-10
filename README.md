@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to Svxy/Svxy
 ⬆️ Pushed 1 commit to Svxy/svxy.github.io
 ⬆️ Pushed 1 commit to Svxy/git
 📦 Released "The Simpsons: Hit & Run - PC" in Svxy/The-Simpsons-Hit-and-Run
 ⬆️ Pushed 1 commit to Svxy/Flight-Fighters
-⬆️ Pushed 1 commit to Svxy/imgs
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-06-09T13:34:30Z</b>
+  <b>2023-06-10T04:27:45Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

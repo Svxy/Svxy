@@ -59,8 +59,8 @@ export default class MyProfile {
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 18 📦 Svxy/The-Simpsons-Hit-and-Run
-⭐️ 18 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
+⭐️ 21 📦 Svxy/The-Simpsons-Hit-and-Run
+⭐️ 19 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
 ⭐️ 3  📦 Svxy/CutieysBot
 ⭐️ 3  📦 Svxy/imgs
 ⭐️ 3  📦 Svxy/My-Favorite-Plugins
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-07-12T04:31:38Z</b>
+  <b>2023-07-13T04:31:45Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

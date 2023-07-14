@@ -51,19 +51,19 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #1 in Svxy/The-Simpsons-Hit-and-Run
 ⬆️ Pushed 1 commit to Svxy/svxy.github.io
 ⬆️ Pushed 1 commit to Svxy/svxy.github.io
 ⬆️ Pushed 1 commit to Svxy/svxy.github.io
-⬆️ Pushed 1 commit to Svxy/git
-⬆️ Pushed 1 commit to Svxy/wanted-coeben-zaine-pittman
+⬆️ Pushed 1 commit to Svxy/svxy.github.io
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 21 📦 Svxy/The-Simpsons-Hit-and-Run
-⭐️ 19 📦 Svxy/TnyavnTos-GTA5-Mod-Menu
-⭐️ 3  📦 Svxy/CutieysBot
-⭐️ 3  📦 Svxy/imgs
-⭐️ 3  📦 Svxy/My-Favorite-Plugins
+⭐️ 409 📦 Svxy/The-Simpsons-Hit-and-Run
+⭐️ 20  📦 Svxy/TnyavnTos-GTA5-Mod-Menu
+⭐️ 3   📦 Svxy/CutieysBot
+⭐️ 3   📦 Svxy/imgs
+⭐️ 3   📦 Svxy/My-Favorite-Plugins
 ```
 ## Coding Activity
 <p align="center">
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-07-13T04:31:45Z</b>
+  <b>2023-07-14T04:31:45Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

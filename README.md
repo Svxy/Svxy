@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Svxy/blog
-⬆️ Pushed 2 commits to Svxy/svxy.github.io
-⬆️ Pushed 92 commits to Svxy/svxy.github.io
-⬆️ Pushed 2 commits to Svxy/svxy.github.io
-⬆️ Pushed 1 commit to Svxy/svxy.github.io
+⬆️ Pushed 1 commit to Svxy/CxWatcher
+⬆️ Pushed 1 commit to Svxy/CxWatcher
+⬆️ Pushed 1 commit to Svxy/CxWatcher
+⬆️ Pushed 1 commit to Svxy/CxWatcher
+⬆️ Pushed 1 commit to Svxy/CxWatcher
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2023-12-20T04:24:42Z</b>
+  <b>2023-12-21T04:29:54Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

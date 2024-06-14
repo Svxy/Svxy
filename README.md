@@ -51,11 +51,11 @@ export default class MyProfile {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to Svxy/svxy.github.io
-❗️ Opened issue #1 in Lopez1337/Kick-ViewBot
-⬆️ Pushed 1 commit to Svxy/svxy.github.io
-⬆️ Pushed 1 commit to Svxy/svxy.github.io
-⬆️ Pushed 1 commit to Svxy/imgs
+📦 Released "v1 - 1.20.6" in Svxy/Sneakys-Dark-Purple
+📦 Released "v1 - 1.20.1" in Svxy/Sneakys-Dark-Purple
+⬆️ Pushed 1 commit to Svxy/Sneakys-Dark-Purple
+⬆️ Pushed 1 commit to Svxy/Sneakys-Dark-Purple
+❗️ Opened issue #1 in CxWatcher/Kick-rate-limit-bypass
 ```
 ## 🌟 Cool Repos
 ```
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2024-06-13T04:30:22Z</b>
+  <b>2024-06-14T04:30:15Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">

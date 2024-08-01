@@ -52,18 +52,18 @@ export default class MyProfile {
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed 1 commit to Svxy/strains
+⬆️ Pushed 1 commit to Svxy/SCS2
+⬆️ Pushed 1 commit to Svxy/strains
 ⬆️ Pushed 1 commit to Svxy/strains
 ⬆️ Pushed 1 commit to Svxy/projects
-⬆️ Pushed 1 commit to Svxy/SCS2
-⬆️ Pushed 1 commit to Svxy/imgs
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 763 📦 Svxy/The-Simpsons-Hit-and-Run
 ⭐️ 35  📦 Svxy/TnyavnTos-GTA5-Mod-Menu
 ⭐️ 9   📦 Svxy/TnyavnTos-Module-Injector
-⭐️ 4   📦 Svxy/SCS2
-⭐️ 2   📦 Svxy/Flight-Fighters
+⭐️ 3   📦 Svxy/SCS2
+⭐️ 3   📦 Svxy/TCSM
 ```
 ## Coding Activity
 <p align="center">
@@ -75,7 +75,7 @@ export default class MyProfile {
 
 <p align="center">
   Last refresh:
-  <b>2024-07-31T04:26:02Z</b>
+  <b>2024-08-01T04:31:02Z</b>
 </p>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Svxy&show_icons=true&title_color=bf0000&icon_color=ff0000&text_color=bf0000&bg_color=2e0000">
